@@ -122,7 +122,7 @@ Good enough to help the company take pre-emptive action on at-risk customers.
 
 ## ▶️ How to Run
 
-Clone the repo: 
+Clone the repo: https://github.com/sgupta701/customer_churn_prediction.git
 
 Install requirements:
 
