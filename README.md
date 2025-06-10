@@ -27,6 +27,13 @@ customer-churn-prediction/
 │   ├── 05_model_training.ipynb
 │   ├── 06_model_evaluation.ipynb
 │
+├── visuals/
+│   ├── Churn vs Tenure.png
+│   ├── Churn_Distribution.png
+│   ├── Feature Correlation with Churn.png
+│   ├── Receiving Operating Characteristics(ROC) Curve.png
+│   ├── Top 10 Feature Importance from Random Forest.png
+|
 ├── models/
 │   └── logistic_regression_model.pkl
 │
